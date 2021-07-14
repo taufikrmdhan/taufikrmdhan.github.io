@@ -1,0 +1,52 @@
+nav .logo{
+    height: 100px;
+}
+.bungkus{
+    border: 2px solid black;
+    margin-top: 100px;
+    background-color: aliceblue;
+    height: 400px;
+}
+.card-status {
+    height: 100px;
+    margin-top: -50px;
+    background: white;
+}
+.pembungkus{
+    width: 100% !important;
+}
+
+/* #konten3 .row .col-md-6 {
+    padding: 3rem;
+    display: flex;
+    align-items: center;
+    max-width: 600px;
+}
+#konten3 .row .col-md-6 .order-md-last {
+    padding: 3rem;
+} */
+#konten3 {
+    background-color: aliceblue;
+    border: 2px solid black;
+}
+tr {
+    padding: 5px;
+    margin: 5px;
+}
+nav ul li{
+    list-style:none;
+}
+nav ul li a{
+    text-decoration:none;
+    color:#222;
+    background-color:#ecf0f1;
+    padding:10px;
+    float:left;
+    font-weight: bold;
+    
+}
+.active{
+    background-color:#d35400;
+    color:#fff;
+
+}
